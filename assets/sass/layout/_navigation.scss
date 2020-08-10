@@ -1,0 +1,10 @@
+.logo{width:100px;}
+.nav-link-rosa{color: $ruddypink !important;
+				  &:hover {color:$fuzzywuzzy;}
+ 				 }
+
+.left-round {border-top-left-radius: $rounded !important;
+			 border-bottom-left-radius: $rounded !important;}
+
+.right-round {border-top-right-radius: $rounded !important;
+			 border-bottom-right-radius: $rounded !important;}
